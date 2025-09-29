@@ -1,7 +1,8 @@
 """
 Programa: Calculadora de IMC (Índice de Masa Corporal)
-Autor: [Tu nombre]
-Materia: [nombre de la materia]
+Autor: [OMAR SALVADOR GARCIA VASQUEZ 
+FLOR MARINA TORRES JANDRES]
+Materia: [PRORAMACION lll]
 
 Descripción:
 Este programa es una aplicación gráfica hecha en Python con PyQt5.
